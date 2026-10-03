@@ -14,7 +14,7 @@ The following methods were implemented and compared:
 
 - First-Fit – baseline heuristic
 - Best Fit Decreasing (BFD) – heuristic optimisation
-- Integer Linear Programming (ILP) – exact optimisation with a 30-minute time limit
+- Integer Linear Programming (ILP): No feasible solution returned within the 30-minute time limit
 - Genetic Algorithm (GA) – metaheuristic optimisation
 
 Server capacity:
